@@ -2,13 +2,17 @@
 
 ANDROID STUDIO 📱
 
-🔎Este proyecto se trata de que el equipo desarrolló la primera versión para Android de la aplicación Urban.Lunch. Esta permite pedir comidas de diferentes restaurantes de la ciudad y luego recibirlas en uno de los puntos de recogida, frente a esto debemos hacer pruebas manuales con ANDROID STUDIO.
+🔎El equipo de desarrollo ha lanzado la primera versión para Android de Urban Lunch, una aplicación móvil que permite a los usuarios solicitar comidas desde distintos restaurantes de la ciudad y retirarlas en puntos de recogida previamente establecidos.
 
-1️⃣ Analizar los requisitos para la aplicación móvil Urban.Lunch.
+Desde el área de aseguramiento de calidad, se ha definido un enfoque de pruebas manuales utilizando Android Studio, con el objetivo de validar la funcionalidad básica de la aplicación en esta etapa inicial. Las actividades realizadas incluyen:
 
-2️⃣ Escribir una lista de comprobación para probar la aplicación móvil para una parte de los requisitos.
+1️⃣ Análisis de requisitos funcionales de la aplicación Urban.Lunch, con énfasis en los flujos de pedido y recogida.
 
-3️⃣ Probar la aplicación móvil en el emulador con Android Studio o en un dispositivo Android para luego crear informes de errores en Jira.
+2️⃣ Elaboración de una lista de comprobación para cubrir parcialmente los requisitos definidos, priorizando aquellos de mayor impacto en la experiencia del usuario.
+
+3️⃣ Ejecución de pruebas manuales en emuladores Android y dispositivos físicos, con posterior registro y seguimiento de incidencias mediante la plataforma Jira.
+
+Este proceso permite identificar errores, validar comportamientos esperados y contribuir a la mejora continua del producto antes de su despliegue en producción.
 
 ### 🚀 Tecnologías utilizadas:
 
